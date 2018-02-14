@@ -1,0 +1,34 @@
+{
+  "name": "Complete",
+  "version": "1.0.0",
+  "description": "projectfolder",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hamzah1947/Complete"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "webrtc"
+  ],
+  "author": "hamza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hamzah1947/Complete/issues"
+  },
+  "homepage": "https://github.com/hamzah1947/Complete#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "mongodb": "^3.0.2",
+    "node-static": "^0.7.10",
+    "os": "^0.1.1",
+    "socket.io": "^2.0.4"
+  }
+}
